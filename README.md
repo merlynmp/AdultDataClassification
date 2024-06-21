@@ -1,6 +1,6 @@
 Hello! This is a Machine Learning project that I wanted to indulge in
 
-Using 1994 data from the US Census, I wanted to classify between Non-female and Female
+Using 1994 data from the US Census, I wanted to classify between gender
 
 I cleaned the dataset with Numpy and Pandas
 
